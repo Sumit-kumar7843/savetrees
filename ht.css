@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(217, 218, 208);
+}
+div{
+    height:880px;
+    width: 500px;
+    margin-left: 350px;
+    background-color: rgb(144, 218, 24);
+}
+
+h1{color: green;
+    text-align: center;
+   font-size: 70px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 2px solid rgb(198, 92, 10);
+    border-radius: 20%;
+    
+     
+
+    
+}
+h2{
+    color: green;
+    text-align: center;
+   font-size: 40px;
+}
+button{
+    margin-top: 10px;
+   margin-left: 150px;
+   height:50px;
+   background-color: rgb(186, 76, 7);
+   color:white;
+   border-radius: 15px;
+   font-size: 40px;
+   width: 200px;
+}
+.div1{
+    height:350px;
+    width:500px;
+    background-color: bisque;
+    margin-left: 0%;
+}
